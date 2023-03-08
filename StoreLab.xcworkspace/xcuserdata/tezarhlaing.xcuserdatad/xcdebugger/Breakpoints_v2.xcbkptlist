@@ -1,0 +1,152 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "9BE6FB8B-BD42-4395-ACA6-44245B6DC395"
+   type = "0"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "8E440EBB-95CE-4E3B-9E31-D60472B9BD78"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "StoreLab/Views/PictureTableViewCell.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "92"
+            endingLineNumber = "92"
+            landmarkName = "favClick()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "8E440EBB-95CE-4E3B-9E31-D60472B9BD78 - 419fbebb1734854f"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "StoreLab.PictureTableViewCell.favClick() -&gt; ()"
+                  moduleName = "StoreLab"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/tezarhlaing/Documents/assignemt/zuzudigital/StoreLab/StoreLab/Views/PictureTableViewCell.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "92"
+                  endingLineNumber = "92"
+                  offsetFromSymbolStart = "65">
+               </Location>
+               <Location
+                  uuid = "8E440EBB-95CE-4E3B-9E31-D60472B9BD78 - 419fbebb1734854f"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "StoreLab.PictureTableViewCell.favClick() -&gt; ()"
+                  moduleName = "StoreLab"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/tezarhlaing/Documents/assignemt/zuzudigital/StoreLab/StoreLab/Views/PictureTableViewCell.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "92"
+                  endingLineNumber = "92"
+                  offsetFromSymbolStart = "117">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "61D78DAC-10CA-4670-857A-45A823571EA4"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "StoreLab/Views/PictureTableViewCell.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "109"
+            endingLineNumber = "109"
+            landmarkName = "setDataUI(_:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "A052FD21-4E9D-4843-8B6B-AE85A268DAB8"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "StoreLab/Views/PictureTableViewCell.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "101"
+            endingLineNumber = "101"
+            landmarkName = "onDetail()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "A052FD21-4E9D-4843-8B6B-AE85A268DAB8 - e082b0ed7d5450e1"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "StoreLab.PictureTableViewCell.onDetail() -&gt; ()"
+                  moduleName = "StoreLab"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/tezarhlaing/Documents/assignemt/zuzudigital/StoreLab/StoreLab/Views/PictureTableViewCell.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "101"
+                  endingLineNumber = "101"
+                  offsetFromSymbolStart = "46">
+               </Location>
+               <Location
+                  uuid = "A052FD21-4E9D-4843-8B6B-AE85A268DAB8 - e082b0ed7d5450e1"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "StoreLab.PictureTableViewCell.onDetail() -&gt; ()"
+                  moduleName = "StoreLab"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/tezarhlaing/Documents/assignemt/zuzudigital/StoreLab/StoreLab/Views/PictureTableViewCell.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "101"
+                  endingLineNumber = "101"
+                  offsetFromSymbolStart = "94">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "E1A40D36-72AE-41ED-A5D6-19D127B2BD19"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "StoreLabTests/StoreLabTests.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "37"
+            endingLineNumber = "37"
+            landmarkName = "testEndpointsURL()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "708A4E57-9212-4786-B51E-F15608FD8926"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "StoreLabTests/StoreLabTests.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "39"
+            endingLineNumber = "39"
+            landmarkName = "testEndpointsURL()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
